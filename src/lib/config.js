@@ -6,7 +6,7 @@ export const config = {
     historyData: {
         coinId: 'bitcoin',
         firstDate: '2014-01-01',
-        finallyDate: '2022-01-10',
+        finallyDate: '2022-01-19',
         tests: 20
     }
 }
