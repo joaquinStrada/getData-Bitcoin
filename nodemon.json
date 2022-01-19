@@ -1,0 +1,10 @@
+{
+  "watch": [
+      "src"
+    ],
+  "ext": "js,mjs,json",
+  "ignore": [
+      "src/public"
+  ],
+  "exec": "babel-node src/index.js"
+}
